@@ -1,0 +1,326 @@
+Turbo Dump  Version 6.5.2.0 Copyright (c) 1988-2015 Embarcadero Technologies, Inc.
+       Display of File c:\dev\project\dr\source\ucandll.lib
+
+000000 MSLIBR Index begins at file offset a00. Index is 2 blocks.
+
+000010 THEADR  _ChangeFirmwareUpgradeMode
+00002F COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _ChangeFirmwareUpgradeMode
+      Module Name: uCANDLL.dll
+      Imported name: ChangeFirmwareUpgradeMode
+000078 MODEND
+
+===============
+
+000080 THEADR  _DllCanUnloadNow
+000095 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _DllCanUnloadNow
+      Module Name: uCANDLL.dll
+      Imported name: DllCanUnloadNow
+0000CA MODEND
+
+===============
+
+0000D0 THEADR  _DllGetClassObject
+0000E7 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _DllGetClassObject
+      Module Name: uCANDLL.dll
+      Imported name: DllGetClassObject
+000120 MODEND
+
+===============
+
+000130 THEADR  _DllRegisterServer
+000147 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _DllRegisterServer
+      Module Name: uCANDLL.dll
+      Imported name: DllRegisterServer
+000180 MODEND
+
+===============
+
+000190 THEADR  _DllUnregisterServer
+0001A9 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _DllUnregisterServer
+      Module Name: uCANDLL.dll
+      Imported name: DllUnregisterServer
+0001E6 MODEND
+
+===============
+
+0001F0 THEADR  _GetGuid
+0001FD COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _GetGuid
+      Module Name: uCANDLL.dll
+      Imported name: GetGuid
+000222 MODEND
+
+===============
+
+000230 THEADR  _GetInstanceName
+000245 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _GetInstanceName
+      Module Name: uCANDLL.dll
+      Imported name: GetInstanceName
+00027A MODEND
+
+===============
+
+000280 THEADR  _GetManufacturer
+000295 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _GetManufacturer
+      Module Name: uCANDLL.dll
+      Imported name: GetManufacturer
+0002CA MODEND
+
+===============
+
+0002D0 THEADR  _GetProduct
+0002E0 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _GetProduct
+      Module Name: uCANDLL.dll
+      Imported name: GetProduct
+00030B MODEND
+
+===============
+
+000310 THEADR  _SetAutoFlag
+000321 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _SetAutoFlag
+      Module Name: uCANDLL.dll
+      Imported name: SetAutoFlag
+00034E MODEND
+
+===============
+
+000360 THEADR  _SetAutoTxFrame
+000374 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _SetAutoTxFrame
+      Module Name: uCANDLL.dll
+      Imported name: SetAutoTxFrame
+0003A7 MODEND
+
+===============
+
+0003B0 THEADR  _SetInterval
+0003C1 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _SetInterval
+      Module Name: uCANDLL.dll
+      Imported name: SetInterval
+0003EE MODEND
+
+===============
+
+000400 THEADR  _SetMessageThead
+000415 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _SetMessageThead
+      Module Name: uCANDLL.dll
+      Imported name: SetMessageThead
+00044A MODEND
+
+===============
+
+000450 THEADR  _uCAN_CAN_Enable
+000465 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_CAN_Enable
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_CAN_Enable
+00049A MODEND
+
+===============
+
+0004A0 THEADR  _uCAN_Close
+0004B0 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_Close
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_Close
+0004DB MODEND
+
+===============
+
+0004E0 THEADR  _uCAN_DeInitNotifyHandle
+0004FD COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_DeInitNotifyHandle
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_DeInitNotifyHandle
+000542 MODEND
+
+===============
+
+000550 THEADR  _uCAN_FindDevice
+000565 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_FindDevice
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_FindDevice
+00059A MODEND
+
+===============
+
+0005A0 THEADR  _uCAN_GetBTR
+0005B1 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_GetBTR
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_GetBTR
+0005DE MODEND
+
+===============
+
+0005F0 THEADR  _uCAN_GetBaudrate
+000606 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_GetBaudrate
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_GetBaudrate
+00063D MODEND
+
+===============
+
+000650 THEADR  _uCAN_GetErrorCount
+000668 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_GetErrorCount
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_GetErrorCount
+0006A3 MODEND
+
+===============
+
+0006B0 THEADR  _uCAN_GetSamplingPoint
+0006CB COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_GetSamplingPoint
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_GetSamplingPoint
+00070C MODEND
+
+===============
+
+000720 THEADR  _uCAN_GetSerial
+000734 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_GetSerial
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_GetSerial
+000767 MODEND
+
+===============
+
+000770 THEADR  _uCAN_GetSetting
+000785 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_GetSetting
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_GetSetting
+0007BA MODEND
+
+===============
+
+0007C0 THEADR  _uCAN_InitNotifyHandle
+0007DB COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_InitNotifyHandle
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_InitNotifyHandle
+00081C MODEND
+
+===============
+
+000830 THEADR  _uCAN_Open
+00083F COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_Open
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_Open
+000868 MODEND
+
+===============
+
+000870 THEADR  _uCAN_SendCANTxFrmae
+000889 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_SendCANTxFrmae
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_SendCANTxFrmae
+0008C6 MODEND
+
+===============
+
+0008D0 THEADR  _uCAN_SetResponse
+0008E6 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_SetResponse
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_SetResponse
+00091D MODEND
+
+===============
+
+000930 THEADR  _uCAN_SetSerial
+000944 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_SetSerial
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_SetSerial
+000977 MODEND
+
+===============
+
+000980 THEADR  _uCAN_SetSetting
+000995 COMENT  Purge: Yes, List: Yes, Class: 160 (0A0h), SubClass: 1 (01h)
+    Dynamic link import (IMPDEF)
+      Imported by: name
+      Internal Name: _uCAN_SetSetting
+      Module Name: uCANDLL.dll
+      Imported name: uCAN_SetSetting
+0009CA MODEND
+
+===============
+
+0009D0 MSLEND
+
